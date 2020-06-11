@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#omotac{
+	width: 325px;
+	height: 325px;
+	padding: 5px;
+}
+
+#stoperica, #rezultat{
+	font-size: 30px;
+	padding: 35px;
+}
+
+div{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+div#tenth{
+	position: relative;
+	background-color: red;
+	margin-left: 20px;
+}
